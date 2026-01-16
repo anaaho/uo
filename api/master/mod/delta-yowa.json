@@ -1,7 +1,7 @@
 {
   "records": [
     {
-      "version": "DELTA GB v3.4.0",
+      "version": "DELTA GB v3.4.5",
       "code": 156,
       "url": "https://www.jubatek.com",
       "changelog": "- Update Base GB v25.60 - Calls Filter View - Scroll Animation on Chats, Updates, Calls"
